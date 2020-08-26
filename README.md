@@ -1,6 +1,6 @@
 # BullCowGame
 
-Unreal Engine Udemy Course Game!
+My first Unreal Engine Udemy Course Game!
 
 It's more of a find the isogram word game. You'll probably need to build it yourself if you are not on gnu/linux. 
 
